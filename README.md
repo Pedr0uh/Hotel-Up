@@ -36,7 +36,7 @@ Um sistema simples, desenvolvido em **Kotlin**, para administrar um hotel chamad
 
 ---
 
-## 🔧 O que daria pra melhorar
+## O que daria pra melhorar
 
 - 💾 Implementar **armazenamento persistente** com arquivos ou banco de dados (ex: SQLite ou PostgreSQL).
 - 🖥 Adicionar uma **interface gráfica** usando Swing, JavaFX ou até uma versão mobile com Android.
