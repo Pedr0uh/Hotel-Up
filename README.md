@@ -14,10 +14,7 @@ Um sistema simples, desenvolvido em **Kotlin**, para administrar um hotel chamad
 - [Funcionalidades](#funcionalidades)  
 - [Tecnologias](#tecnologias)  
 - [Pré‑requisitos](#pré‑requisitos)  
-- [Como executar](#como-executar)  
-- [Exemplos de uso](#exemplos-de-uso)  
-- [Contribuição](#contribuição)  
-- [Licença](#licença)
+- [O que daria para melhorar](#o-que-daria-para-melhorar)
 
 ---
 
@@ -38,3 +35,12 @@ Um sistema simples, desenvolvido em **Kotlin**, para administrar um hotel chamad
 - Possibilidade de integrar com bancos de dados (ex.: SQLite, PostgreSQL) ou continuar com manipulação de arquivos.
 
 ---
+
+## 🔧 O que daria pra melhorar
+
+- 💾 Implementar **armazenamento persistente** com arquivos ou banco de dados (ex: SQLite ou PostgreSQL).
+- 🖥 Adicionar uma **interface gráfica** usando Swing, JavaFX ou até uma versão mobile com Android.
+- ✅ Criar **testes automatizados** com JUnit para garantir a qualidade do código.
+- 📚 Incluir **documentação com KDoc** para facilitar a leitura e manutenção.
+- 🐳 Configurar **Docker** para facilitar o ambiente de execução.
+- 🔁 Integrar com **CI/CD** (ex: GitHub Actions) para automação de builds e testes.
