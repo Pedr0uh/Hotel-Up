@@ -9,14 +9,6 @@ Um sistema simples, desenvolvido em **Kotlin**, para administrar um hotel chamad
 
 ---
 
-## 🧭 Índice
-
-- [Funcionalidades](#funcionalidades)  
-- [Tecnologias](#tecnologias)    
-- [O que daria para melhorar](#o-que-daria-para-melhorar)
-
----
-
 ## Funcionalidades
 
 - 🛤 Cadastro e gerenciamento de **quartos**, incluindo tipo, número e disponibilidade.  
